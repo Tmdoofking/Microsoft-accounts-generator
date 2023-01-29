@@ -17,8 +17,8 @@ Close cmd when you want to stop creating account
 
 
 ```
-data » <mail><data>@outlook.com (i recommend don't touch this)
-firstname » First name ypu want use 
+data » <mail><data>@outlook.com (I recommend don't touch this)
+firstname » First name you want use 
 lastname » Last name you want use
 mail » <mail><data>@outlook.com
 password » Password for your account
