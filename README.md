@@ -2,12 +2,13 @@
 Python X surfsharkVPN
 
 #English Ver.
+
 Change config.yml after you dowland
 Double Click `run.bat`
 You need complate captcha by yourself
 Close cmd when you d'ont want create more account
 
-#Config.yml 
+#Config.yml
 data: 1 (mail[data]@outlook.com)
 firstname: First (FirstName)
 lastname: Last (LastName)
@@ -17,6 +18,7 @@ surfsharkmail: surfsharkmail (Your surfshrak mail)
 surfsharkpassword: surfsharkpassword (Your surfshark password)
 
 #Chinese ver.
+
 下載之後請先修改config.yml檔案
 修改完畢後點 `run.bat` 兩下
 你需要自己完成我不是機器人
