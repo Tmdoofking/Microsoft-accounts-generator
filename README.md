@@ -1,7 +1,7 @@
 # Microsoft accounts generator 
 Python X surfsharkVPN
 
-#English
+**English**
 
 Change config.yml after you dowland
 
@@ -21,7 +21,7 @@ password: Password (Password you want to use)
 surfsharkmail: surfsharkmail (Your surfshrak mail)
 surfsharkpassword: surfsharkpassword (Your surfshark password)
 ```
-#Chinese
+**中文**
 
 下載之後請先修改config.yml檔案
 
