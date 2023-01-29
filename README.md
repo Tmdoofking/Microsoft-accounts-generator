@@ -11,7 +11,7 @@ Change config.yml after you downlond
 
 Double Click `run.bat`
 
-You need complate captcha by yourself
+You need complete captcha by yourself
 
 Close cmd when you want to stop creating account
 
