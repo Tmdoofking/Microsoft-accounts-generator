@@ -7,7 +7,7 @@ You need have python3
 
 Terminal enter `pip install -r requirements.txt`
 
-Change config.yml after you dowland
+Change config.yml after you downlond
 
 Double Click `run.bat`
 
