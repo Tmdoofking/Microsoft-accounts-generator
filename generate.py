@@ -103,4 +103,4 @@ def generator(config):
 while True:
     config = getconfigdata()
     generator(config)
-    plusdata(config)
+    plusdata()
