@@ -26,10 +26,10 @@ def getconfigdata():
 
 def plusdata():
     # data +1
-    with open('config.yml', 'r') as f:
+    with open('config.yml', 'r', encoding="utf8") as f:
         data = yaml.load(f, Loader=SafeLoader)
     data['data'] += 1
-    with open('config.yml', 'w') as f:
+    with open('config.yml', 'w', encoding="utf8") as f:
         yaml.dump(data, f)
 
 def generator(config):
