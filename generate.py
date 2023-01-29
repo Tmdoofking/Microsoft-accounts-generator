@@ -96,7 +96,7 @@ def generator(config):
     print(f'{config.get("mail") + str(config.get("data")) + "@outlook.com"} create successful and register in accounts.txt!')
 
     # exit
-    time.sleep(5)
+    time.sleep(2)
     driver.quit()
 
 while True:
