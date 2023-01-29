@@ -2,6 +2,9 @@
 Python X surfsharkVPN
 
 **English**
+You need have python3
+
+Terminal enter `pip install -r requirements.txt`
 
 Change config.yml after you dowland
 
@@ -22,6 +25,10 @@ surfsharkmail» Your surfshark vpn mail
 surfsharkpassword» Your surfshark vpn password
 ```
 **中文**
+
+你需要有python3
+
+在控制台輸入 `pip install -r requirements.txt`
 
 下載之後請先修改config.yml檔案
 
