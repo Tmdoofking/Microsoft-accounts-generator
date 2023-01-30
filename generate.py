@@ -101,6 +101,9 @@ def generator(config):
     driver.quit()
 
 while True:
-    config = getconfigdata()
-    generator(config)
-    plusdata()
+    try:
+        config = getconfigdata()
+        generator(config)
+        plusdata()
+    except:
+        print('Something went wrong... retrying!')
